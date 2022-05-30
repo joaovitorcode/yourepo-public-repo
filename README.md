@@ -1,4 +1,4 @@
-## Projeto FindPoke
+## Projeto YouRepo
 Este projeto tem por objetivo testar as tecnologias Typescript e Tailwind por meio do desenvolvimento de um site que permite ao usuário autenticado criar uma lista privada de repositórios.
 
 ## Tecnologias utilizadas
